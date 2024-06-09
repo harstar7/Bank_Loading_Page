@@ -15,8 +15,7 @@ Uifry Finance Banking is a responsive, user-friendly website designed to help us
 
 ## Demo
 
-You can see a live demo of the project [here](#https://bank-loading-page-mcjg.vercel.app/).
-
+You can see a live demo of the project [here](https://bank-loading-page-mcjg.vercel.app/)
 ## Features
 
 - Responsive design
