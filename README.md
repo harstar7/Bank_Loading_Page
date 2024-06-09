@@ -32,6 +32,23 @@ You can see a live demo of the project [here](https://bank-loading-page-mcjg.ver
 - JavaScript
 - Font Awesome
 
+## Design Choices
+
+    User Interface:
+        Toggle Button: A toggle button for dark mode is placed in the navigation bar, making it easily accessible. The button is styled to visually indicate its functionality.
+
+    Smooth Transitions:
+        CSS Transitions: Transitions are applied to the background-color and color properties to provide a smooth visual effect when switching between light and dark modes.
+
+Libraries and Tools Used
+
+    JavaScript:
+        Event Listeners: Used to handle the click events for toggling dark mode and for the navigation links' active state.
+        DOM Manipulation: Utilized to add and remove CSS classes dynamically based on user interactions.
+
+    CSS:
+        Custom Styles: Defined in the CSS to support both light and dark themes. Transition effects are used to enhance user experience.
+        Responsive Design: Ensured that the layout is responsive and works well on various screen sizes.
 ## Getting Started
 
 ### Prerequisites
